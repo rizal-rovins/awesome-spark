@@ -169,6 +169,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 - [Spark with Scala Gitter channel](https://gitter.im/spark-scala/Lobby) - "_A place to discuss and ask questions about using Scala for Spark programming_" started by [@deanwampler](https://github.com/deanwampler).
 - [Apache Spark User List](http://apache-spark-user-list.1001560.n3.nabble.com/) and [Apache Spark Developers List](http://apache-spark-developers-list.1001551.n3.nabble.com/) - Mailing lists dedicated to usage questions and development topics respectively.
+- [Spark Playground](https://www.sparkplayground.com/pyspark-online-compiler) - Interactive platform where data engineers can learn, practice, and run PySpark code directly in the browser.
 
 ## References
 
